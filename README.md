@@ -7,10 +7,17 @@ I am curious to learn, having a belief in dedication to work and ready for any c
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay-alt&show_icons=true&theme=tokyonight)](https://github.com/vinay-alt/)
+[![Vinay's Github Stats](https://github-readme-stats.vercel.app/api?username=vinay-alt&show_icons=true&theme=tokyonight)](https://github.com/vinay-alt/)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-alt&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/vinay-alt)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-alt&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/vinay-alt)
 
+---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay-alt&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-alt&show_icons=true&theme=tokyonight&langs_count=8" />
+</a>
