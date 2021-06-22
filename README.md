@@ -11,6 +11,6 @@ I am curious to learn, having a belief in dedication to work and ready for any c
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-alt)](https://github.com/vinay-alt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-alt&show_icons=true&theme=tokyonight)](https://github.com/vinay-alt)
 
 
