@@ -4,3 +4,8 @@ I am curious to learn, having a belief in dedication to work and ready for any c
 - LinkedIn - [My LinkedIn Account](https://www.linkedin.com/in/vinay-gomashe-77283b1a9)
 - Gmail - vinaygomashe@gmail.com
 - My Portfolio - https://vinaygomashe.herokuapp.com/
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
