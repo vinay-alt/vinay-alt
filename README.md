@@ -7,5 +7,5 @@ I am curious to learn, having a belief in dedication to work and ready for any c
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay-alt)](https://github.com/vinay-alt/)
 
